@@ -1,0 +1,20 @@
+{
+  "posts": [ {
+    "serial" : 1,
+    "name"   : "mandeep",
+    "class": "12th"
+  }
+
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
